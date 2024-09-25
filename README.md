@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Abdallah
-- 👀 I’m interested in relaxe learning and collaboration
-- 🌱 I’m currently learning php
-- 💞️ I’m looking to learning
-- 📫 How to reach me : $mail = "Abdallahlahlougo@outlook.com";
+- 👀 I’m interested in relaxe learning
+- 🌱 I’m currently learning Php, Python
+- 💞️ I’m looking to learning;
 
 <!---
 Lahlougo13/Lahlougo13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
